@@ -10,7 +10,7 @@
  *
  *
  *
- * @author Akhil Kokani <akhilkokani[at]gmail.com>
+ * @author Akhil Kokani
  * @package Prix
 **/
 
